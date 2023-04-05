@@ -17,5 +17,4 @@ A services section that showcases the different services provided by the pet car
 A plan section that showcases the different plan services provided by the pet care service
 A contact form that allows users to send a message to the pet care service.
 
-License
-This project is licensed under the MIT license.
+
