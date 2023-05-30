@@ -17,6 +17,6 @@ A services section that showcases the different services provided by the pet car
 A plan section that showcases the different plan services provided by the pet care service
 A contact form that allows users to send a message to the pet care service.
 
-![Petcare-Website](./images/petcare-website.jpg)
+![Petcare-Website](./image/petcare-website.jpg)
 
 
