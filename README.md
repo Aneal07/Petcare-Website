@@ -8,7 +8,7 @@ This is a simple website designed for a fictional pet care service. The website 
 Getting Started
 To view the website, simply visit the following URL:
 
-https://aneal07.github.io/Petcare-Website/
+[Live Site](https://aneal07.github.io/Petcare-Website/)
 
 Features
 A responsive design that adapts to various screen sizes.
